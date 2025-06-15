@@ -30,6 +30,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://servicesingear.github.io/EmployeePortal/"
+  "homepage": "https://servicesingear.github.io/EmployeePortal/",
+  "main": "src/index.jsx"
 
 }
