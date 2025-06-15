@@ -1,12 +1,11 @@
 import React, { useState } from "react";
-import AuthForm from "./components/AuthForm/AuthForm";
+import AuthForm from "./components/AuthForm";
 import AdminPanel from "./components/AdminPanel/AdminPanel";
 import EmployeeProfile from "./components/EmployeeProfile/EmployeeProfile";
 import LeaveApplication from "./components/LeaveApplication/LeaveApplication";
 import TravelRequest from "./components/TravelRequest/TravelRequest";
 import SalarySlips from "./components/SalarySlips/SalarySlips";
 import TrainingCourses from "./components/TrainingCourses/TrainingCourses";
-import AuthForm from "./components/AuthForm/AuthForm";
 import "./portalStyles.css";
   
 
